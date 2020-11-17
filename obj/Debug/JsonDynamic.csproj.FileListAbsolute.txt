@@ -1,0 +1,6 @@
+W:\workspaces\aswc-git\jsondynamic\obj\Debug\JsonDynamic.csprojAssemblyReference.cache
+W:\workspaces\aswc-git\jsondynamic\obj\Debug\JsonDynamic.csproj.CoreCompileInputs.cache
+W:\workspaces\aswc-git\jsondynamic\bin\Debug\JsonDynamic.dll
+W:\workspaces\aswc-git\jsondynamic\bin\Debug\JsonDynamic.pdb
+W:\workspaces\aswc-git\jsondynamic\obj\Debug\JsonDynamic.dll
+W:\workspaces\aswc-git\jsondynamic\obj\Debug\JsonDynamic.pdb
